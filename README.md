@@ -32,7 +32,7 @@
 * octet = 8bits
 * 1111 1111 = 255
 
-## Mask
+## Mask 
 Decide which range of ip-addresses are part of the same subnet.
 Two notation to mask:
 * Decimal notation. Ex: `255.255.255.0`
