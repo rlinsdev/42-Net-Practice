@@ -1,5 +1,16 @@
 # 42 - Net Practice
 
+
+<div align="center">
+
+<p align="center">
+
+<!-- <img src="https://game.42sp.org.br/static/assets/achievements/netpracticen.png" alt="NetPractice" /> -->
+<img src="https://i2.wp.com/www.aponia-dental-center.com/fachzahnarztliche-praxis/wp-content/uploads/2014/01/work-in-progress.png?fit=286%2C253" alt="Working Progress" />
+</p>
+
+</div>
+
 ## Definitions:
 Using IPv4, not IPv6.
 IPv4-address is a 32-bit number divided into 4 "blocks", each 8 bits.
