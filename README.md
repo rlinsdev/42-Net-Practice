@@ -21,6 +21,7 @@
 	* Cannot talk directly to a network outside
 	* It only distributes packets to its local network
 * Router: Router connects multiple networks together.
+	* In Netpractice this is visualized by the so called **Interface**.
 
 "Typically, a switch operates inside a network whereas a router works as an interface between two different networks or sub-networks."
 
@@ -28,6 +29,8 @@
 * IPv4-address is a 32-bit number divided into 4 "blocks", each 8 bits.
 * The first address is reserved as the network-address
 * The last address is reserved as a broadcast-address
+* octet = 8bits
+* 1111 1111 = 255
 
 ## Mask
 Decide which range of ip-addresses are part of the same subnet.
@@ -52,4 +55,5 @@ Two notation to mask:
 ## Links:
 * [GitHub - Explanation](https://github.com/Laubester/NetPractice) - Todo: Deixar ou add todos?
 * [IP Subnet Calc.](https://www.calculator.net/ip-subnet-calculator.html)
+* [Routers vs. Switches vs. Access Points](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
 
