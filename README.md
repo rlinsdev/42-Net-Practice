@@ -12,9 +12,20 @@
 </div>
 
 ## Definitions:
-Using IPv4, not IPv6.
-IPv4-address is a 32-bit number divided into 4 "blocks", each 8 bits.
-11111111 = 255
+* TCP: **T**ransmission **C**ontrol **P**rotocol / Transport layer
+* IPV4: - 32bit number protocol.
+* CIDR Notation (`/24`): [**C**lassless **I**nter-**D**omain **R**outing (**CIDR**)]
+	* This form represents the mask as a slash "/", followed by the number of bits that serve as the network address.
+	* `255.255.255.128` is equivalent to a mask of `/25` using the CIDR notation
+* Switch: Connects multiple devices together in a single network.
+	* Cannot talk directly to a network outside
+	* It only distributes packets to its local network
+* Router: Router connects multiple networks together.
+
+"Typically, a switch operates inside a network whereas a router works as an interface between two different networks or sub-networks."
+
+* In this project: Using IPv4, not IPv6.
+* IPv4-address is a 32-bit number divided into 4 "blocks", each 8 bits.
 * The first address is reserved as the network-address
 * The last address is reserved as a broadcast-address
 
@@ -35,6 +46,8 @@ Two notation to mask:
 | /26 | 255.255.255.192 | 64 | 62 | 4 |
 | /25 | 255.255.255.128 | 128 | 126 | 2 |
 | /24 | 255.255.255.0 | 256 | 254 | 1 |
+
+
 
 ## Links:
 * [GitHub - Explanation](https://github.com/Laubester/NetPractice) - Todo: Deixar ou add todos?
