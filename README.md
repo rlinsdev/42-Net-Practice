@@ -32,7 +32,7 @@
 * octet = 8bits
 * 1111 1111 = 255
 
-## Mask 
+## Mask
 Decide which range of ip-addresses are part of the same subnet.
 Two notation to mask:
 * Decimal notation. Ex: `255.255.255.0`
@@ -53,7 +53,8 @@ Two notation to mask:
 
 
 ## Links:
-* [GitHub - Explanation](https://github.com/Laubester/NetPractice) - Todo: Deixar ou add todos?
+* [GitHub - Laubester](https://github.com/Laubester/NetPractice)
+* [GitHub - tblaase](https://github.com/tblaase/Net_Practice)
 * [IP Subnet Calc.](https://www.calculator.net/ip-subnet-calculator.html)
 * [Routers vs. Switches vs. Access Points](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
 
