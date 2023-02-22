@@ -55,6 +55,8 @@ Two notation to mask:
 ## Links:
 * [GitHub - Laubester](https://github.com/Laubester/NetPractice)
 * [GitHub - tblaase](https://github.com/tblaase/Net_Practice)
+* [GitHub - viruskizz](https://github.com/viruskizz/42bangkok-netpractice)
 * [IP Subnet Calc.](https://www.calculator.net/ip-subnet-calculator.html)
 * [Routers vs. Switches vs. Access Points](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
+* [Subnet Mask](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 
