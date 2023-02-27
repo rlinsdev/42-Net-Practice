@@ -60,3 +60,12 @@ Two notation to mask:
 * [Routers vs. Switches vs. Access Points](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
 * [Subnet Mask](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 
+-Estudar p/ entrega o projeto
+	-commit nova resolução
+	-commitar a resolução antiga sim
+	-estudar s/ login / fazendo testes como se fosse defesa
+	-estudar olhando as imagens
+		-vendo diferença entre as 12 results q criei
+		-estudar 'apresentando' apenas olhando as resoluções que implementei
+-Finalizar o projeto (Postar no git)
+-Defender o projeto
