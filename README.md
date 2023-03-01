@@ -2,7 +2,8 @@
 
 
 <div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleqaa44300300flf31t6bg3w/stats?cursusId=21&coalitionId=piscine" alt="rlins's 42 stats" /></a>
+<!-- https://github.com/JaeSeoKim/badge42 -->
+<img src="https://badge42.vercel.app/api/v2/cleqaa44300300flf31t6bg3w/stats?cursusId=21&coalitionId=piscine" alt="rlins's 42 stats" />
 
 <p align="center">
 
@@ -10,7 +11,7 @@
 
 <img src="https://game.42sp.org.br/static/assets/achievements/netpracticen.png" alt="NetPractice" />
 <br>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleqaa44300300flf31t6bg3w/project/2985346" alt="rlins's 42 NetPractice Score" /></a>
+<img src="https://badge42.vercel.app/api/v2/cleqaa44300300flf31t6bg3w/project/2985346" alt="rlins's 42 NetPractice Score" />
 <!-- <img src="https://i2.wp.com/www.aponia-dental-center.com/fachzahnarztliche-praxis/wp-content/uploads/2014/01/work-in-progress.png?fit=286%2C253" alt="Working Progress" /> -->
 </p>
 
